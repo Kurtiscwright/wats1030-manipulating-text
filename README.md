@@ -104,8 +104,8 @@ ServerName www.unix.org
 
 * In the short story "The Machine Stops" (contained in the
 `the_machine_stops.txt` file), the main characters are Vishta and Kuno. How many
-times does the word "Vishta" show up in the short story? How many times does the
-word "Kuno" show up in the short story? (Type your answers here.)
+times does the word "Vishta" show up in the short story? 31 times, but the name is spelled Vashti
+How many times does the word "Kuno" show up in the short story? (Type your answers here.) 25 times
 
 ## Stretch Goals
 
